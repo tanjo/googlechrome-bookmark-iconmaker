@@ -1,6 +1,12 @@
 # googlechrome-bookmark-iconmaker
 Google Chrome にあるブックマークのアイコンを変更するための Base64 生成機
 
+## 使い方
+
+```
+python encode.py imagepath
+```
+
 ## Bookmark のフォーマット
 
 ```
